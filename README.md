@@ -6,6 +6,7 @@ and enthusiast. I keep most of my source code off of GitHub for licensing reason
 
 ## Technologies I Like
 <div style="display: block;">
-  <img src="https://github.com/pawjamacat/pawjamacat/blob/main/Scheme.png?raw=true" alt="The Scheme Programming Language" style="float: left; width: 100px"/>
-  <img src="https://github.com/pawjamacat/pawjamacat/blob/main/OCaml.png?raw=true" alt="The OCaml Programming Language" style="float: left; width: 100px"/>
+  <img src="https://github.com/jun-the-cat/pawjamacat/blob/main/Scheme.png?raw=true" alt="The Scheme Programming Language" style="float: left; height: 100px"/>
+  <img src="https://github.com/jun-the-cat/pawjamacat/blob/main/OCaml.png?raw=true" alt="The OCaml Programming Language" style="float: left; height: 100px"/>
+  <img src="https://github.com/jun-the-cat/jun-the-cat/blob/main/Haskell.png?raw=true" alt="The Haskell Programming Language"  style="float: left; height: 100px"/>
 </div>
