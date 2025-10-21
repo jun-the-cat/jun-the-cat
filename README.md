@@ -1,4 +1,4 @@
-# Scheme, Logic, and Parenthesis
+# Lambdas & Logic
 <img src="https://github.com/pawjamacat/pawjamacat/blob/main/cover.png?raw=true" alt="A cover image of lambdas and parenthesis."/>
 Hello! I'm Ori, a Franklin University student and Vice President of Franklin University's Programming SIG. Additionally, I am a functional programming enthusiast.
 I keep most of my source code off of GitHub for licensing reasons. So if you want to see more of my source code, please check out my
