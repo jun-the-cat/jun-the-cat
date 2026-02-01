@@ -1,9 +1,7 @@
 # Lambdas & Logic
 <img src="https://github.com/pawjamacat/pawjamacat/blob/main/cover.png?raw=true" alt="A cover image of lambdas and parenthesis."/>
 Hello! I'm Oswin, a Franklin University student and Vice President of the ACM Programming SIG there; Additionally, I am a functional programming enthusiast.
-I have been programming for over 15 years now, slowly deepening my knowledge and specialization to systems and logic.
-
-For more of my projects, check out my <a href="https://codeberg.org/juniper">Codeberg</a>!
+I have been programming for over 15 years now, slowly deepening my knowledge and specialization to systems and logic. For more of my projects, check out my <a href="https://codeberg.org/juniper">Codeberg</a>!
 
 ## Essays I Recommend
 * <a href="https://www.cs.utexas.edu/~EWD/ewd10xx/EWD1036.PDF">On the cruelty of really teaching computer science</a>, by Edsger W. Dijkstra
