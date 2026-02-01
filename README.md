@@ -5,7 +5,7 @@ I have been programming for over 15 years now, slowly deepening my knowledge and
 
 For more of my projects, check out my <a href="https://codeberg.org/juniper">Codeberg</a>!
 
-## Articles &amp; Papers I Recommend
+## Essays I Recommend
 * <a href="https://www.cs.utexas.edu/~EWD/ewd10xx/EWD1036.PDF">On the cruelty of really teaching computer science</a>, by Edsger W. Dijkstra
 * <a href="https://dreamsongs.com/WorseIsBetter.html">Worse Is Better</a>, by Richard P. Gabriel
 * <a href="https://deadsimpletech.com/blog/altman_dunce">Sam Altman is a dunce</a>, by Iris Meredith
